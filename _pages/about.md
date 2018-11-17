@@ -1,23 +1,19 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Zeynep</strong> Ertem
+description: <a href="https://stat.utexas.edu/"> Post-doctoral Research Fellow @ The University of Texas, Austin</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <i class="fab fa-wpforms"></i> <a href="assets/files/zeynep_resume.pdf" target="_blank" title="Resume/CV">Resume/CV</a>
 news: true
 social: true
+publications: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am intrigued by building mathematical models and optimization solutions to **high-impact real-world problems in healthcare systems** by leveraging large-scale mixed integer programming, graph theory, and stochastic simulation methods. My recent research is focused on the optimization of **infectious disease surveillance systems** and control policies, and the development of decision-support software for pandemic preparedness and response.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ <!-- I am on the academic job market. Plesae see my <a href="./assets/files/research_statement.pdf" target="_blank">research statement</a>, <a href="./assets/files/teaching_statement.pdf" target="_blank">teaching statement</a>, and <a href="./assets/files/diversity_statement.pdf" target="_blank">diversity statement.</a> -->

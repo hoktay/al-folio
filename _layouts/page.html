@@ -11,13 +11,15 @@ layout: default
   <article class="post-content {{page.title}} clearfix">
     {{ content }}
   </article>
+  {% if page.social %}
+    {% include social.html %}
+  {% endif %}
 
   {% if page.news %}
     {% include news.html %}
   {% endif %}
 
-  {% if page.social %}
-    {% include social.html %}
+  {% if page.publications %}
+    {% include publications.html %}
   {% endif %}
-
 </div>
